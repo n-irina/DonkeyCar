@@ -1,0 +1,3 @@
+Cours de git
+
+Création du premier fichier pour le travail en groupe.
